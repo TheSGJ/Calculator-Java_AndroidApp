@@ -23,7 +23,7 @@
 - Add JAVA_HOME environment variable which is the path of your folder where open jdk 11 is installed & add the bin folder path too.
 - In Linux you can add the path by editing .bashrc file
 - In .bashrc add the following lines || `sudo vim ~/.bashrc` [Edit the file]
-- `export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd6`
+- `export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64`
 - `export PATH=$PATH:$JAVA_HOME/bin`
 > Save the file and that's it! :)
 - On windows you can set environment variables by going to your control panel and search environment variables there.
