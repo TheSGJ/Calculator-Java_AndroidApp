@@ -29,7 +29,7 @@
 - On windows you can set environment variables by going to your control panel and search environment variables there.
 
 - If you're on windows your path may differ or you downloaded it website on linux.
-- If you don't understand these instructions, you can watch video on how to JAVA_HOME environment variable for your OS on YouTub.
+- If you don't understand these instructions, you can watch video on how to JAVA_HOME environment variable for your OS on YouTube.
 
 #### `# on command line compile debug apk using:
 
